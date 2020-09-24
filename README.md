@@ -18,7 +18,7 @@ git clone https://github.com/andersbor/Webpack-template new-project-based-on-the
 move into your newly created folder and install all dependencies (node modules)
 ```console
 npm install
-```
+``` 
 
 ### Start Developing
 You run the project example in the src folder
